@@ -14,6 +14,7 @@ public class Program {
 
     public static void Menu() {
         int numeroUno = 0, numeroDos = 0, resultado = 9;
+        String textNumeroUno, textNumeroDos;
 
         Scanner scanner = new Scanner(System.in);
         System.out.println(COLOR_CYAN + "¿Que tipo de calculadora quieres usar?" + COLOR_RESET);
@@ -22,14 +23,18 @@ public class Program {
         System.out.println("3. Fibonacci");
         System.out.println("4. Hanoi");
         System.out.println("5. Máximo Común Divisor");
+        System.out.println("6. Cambio");
+
         String op = scanner.nextLine();
 
         System.out.print("Ingresa el valor #1: ");
-        numeroUno = Integer.parseInt(scanner.nextLine());
+        textNumeroUno = scanner.nextLine();
+        numeroUno = (int) Float.parseFloat(textNumeroUno);
 
         if (op.equals("1") || op.equals("5")) {
             System.out.print("Ingresa el valor #2: ");
-            numeroDos = Integer.parseInt(scanner.nextLine());
+            textNumeroDos = scanner.nextLine();
+            numeroDos = Integer.parseInt(textNumeroDos);
         }
 
         switch (op) {
@@ -56,6 +61,10 @@ public class Program {
                 Emecede MCD = new Emecede(numeroUno, numeroDos);
                 resultado = MCD.Calculo();
                 System.out.println(COLOR_ROJO + "El MCD es: " + resultado + COLOR_RESET);
+                break;
+            case "6":
+                Cambio MDC = new Cambio();
+                MDC.CalcularCambio(Float.parseFloat(textNumeroUno));
                 break;
             default:
                 break;
