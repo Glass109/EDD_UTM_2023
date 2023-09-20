@@ -26,7 +26,6 @@ public class Matricez {
             System.out.print("\n"); // Salto de linea al final de cada fila
         }
         System.out.println("\n + \n");
-
         for (double[] a : matrix2) {
             for (double d : a) {
                 System.out.print(" (" + d + ") ");
@@ -45,6 +44,7 @@ public class Matricez {
         scanner.next();
         return 1;
     }
+
 
     public double Resta() {
         for (double[] a : matrix1) {

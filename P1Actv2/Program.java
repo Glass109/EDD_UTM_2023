@@ -73,14 +73,14 @@ public class Program {
                 resultado = MCD.Calculo();
                 System.out.println(ANSI_RED + "El MCD es: " + resultado + ANSI_RESET);
                 break;
-            case "6":
-                Cambio MDC = new Cambio();
-                try {
-                    MDC.CalcularCambio(Float.parseFloat(textNumeroUno));
-                } catch (Exception e) {
-                    System.out.println("ERROR:" + e);
-                }
-                break;
+            // case "6":
+            //     Cambio MDC = new Cambio();
+            //     try {
+            //         MDC.CalcularCambio(Float.parseFloat(textNumeroUno));
+            //     } catch (Exception e) {
+            //         System.out.println("ERROR:" + e);
+            //     }
+            //     break;
             default:
                 break;
         }
