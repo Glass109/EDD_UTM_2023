@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Cambio {
+public class Cambio extends Program {
 
 	int contador = 0;
 	int[] cantidadMonedas = new int[12]; // Quiero suponer que por default se ponen 0 en vez de quedar con valores NULL
