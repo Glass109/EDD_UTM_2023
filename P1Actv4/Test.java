@@ -7,24 +7,13 @@ import java.util.regex.Pattern;
 
 public class Test {
 
-    int[][] _matrix = new int[3][4];
-
     public static String[] UserInputArray() {
-        System.out.println("Ingrese la cantidad de expresiones a introducir (n)");
+        System.out.println("Ingrese una dimensión de la matriz (n * n)");
         Scanner SCANNER = new Scanner(System.in);
         int dimensiones = Integer.parseInt(SCANNER.nextLine());
         String[] userImput = new String[dimensiones];
 
-        for (int i = 0; i < dimensiones; i++) {
-            System.out.println("Ingrese expresion #" + (i + 1) + " (FORMATO: 5x + y - 1z = 50r)");
-            String exp = SCANNER.nextLine();
-            userImput[i] = quitarEspacios(exp);
-            if (userImput[i].isBlank()) {
-                System.out.println("ALGO SALIÓ MAL, REGRESANDO NADA");
-                SCANNER.close();
-                return null;
-            }
-        }
+        
         SCANNER.close();
         return userImput;
     }
