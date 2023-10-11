@@ -129,4 +129,28 @@ public class Matricez {
         scanner.next();
         return 1;
     }
+    public static void contarCeros(int[][] matrix) {
+        int ceros = 0;
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[0].length; j++) {
+                if(matrix[i][j] == 0) ceros++;
+            }
+            System.out.println("# de Ceros en Fila " + i + ": " + ceros);
+            ceros = 0;
+        }
+    }
+    public static int[][] crearIdentidad(){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Ingresar dimensión de la matriz n (n * n)");
+        int x = Integer.parseInt(scanner.nextLine());
+        int[][] matrix = new int[x][x];
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[0].length; j++) {
+                if( i == j )
+                    matrix[i][j] = 1;
+            }
+        }
+        scanner.close();
+        return matrix;
+    }
 }

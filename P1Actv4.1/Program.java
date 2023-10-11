@@ -16,5 +16,4 @@ public class Program {
         Matrix.contarCeros(_matrix);
         System.out.println(Arrays.deepToString(Matrix.aplicarGaussJordan(_matrix)).replace("],","\n")); //Imprime la matriz
     }
-
 }

@@ -14,7 +14,13 @@ public class Matrix {
         if(a.contains("D")){
             return defaultMatrix;
         }
-        int dimensiones = Integer.parseInt(a);
+        int dimensiones;
+        try {
+            dimensiones = Integer.parseInt(a);
+        } catch (Exception e) {
+            System.out.println("ERROR, DEFAULT a 3");
+            dimensiones = 3;
+        }
         int[][] matrix = new int[dimensiones][dimensiones];
         // SCANNER.close();
         return matrix;

@@ -23,6 +23,9 @@ public class Program{
                     matrix.Div();
                     break;
                 case "5":
+                    matrix.contarCeros();
+                    break;
+                case "9":
                     scanner.close();
                     return;
             }
