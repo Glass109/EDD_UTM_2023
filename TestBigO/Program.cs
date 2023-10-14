@@ -30,6 +30,8 @@ class SortingComparison
         Array.Copy(arr, arrCopy, arr.Length);
         Console.WriteAscii("Burbuja: " + TestSortingAlgorithm(BubbleSort, arrCopy )+ "MS",Color.Orange);
         System.Console.ReadLine();
+
+
         // Burbuja Clásica
         Array.Copy(arr, arrCopy, arr.Length);
         Console.WriteAscii("C. Burb: " + TestSortingAlgorithm(ClasssicBubbleSort, arrCopy) + "MS", Color.Red);

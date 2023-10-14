@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ListaLigadaSimple
 {
-    public class LSS
-    {
+    public class LSS{
         protected LLSNodo inicio, final;
         public LSS() { inicio = final = null; }
         public bool estaVacia() { return inicio == null; }
@@ -117,6 +116,20 @@ namespace ListaLigadaSimple
                     for (atras = inicio; atras.next != nodoTemp; atras = atras.next) ;
                 }
             }
+        }
+        public void InsertarEnIndice(int idx, int valor){
+            if(estaVacia()){
+                throw new Exception("ListaVacia");
+                //TOOD
+            }
+        }
+        public int ContarNumNodos(){
+            int i = 0;
+            while(inicio.next != null){
+                i++;
+                inicio = inicio.next;
+            }
+            return i;
         }
     }
 }

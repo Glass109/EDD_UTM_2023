@@ -8,7 +8,7 @@ namespace ListaLigadaSimple
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             int resp = 0;
             LSS lista = new LSS();
@@ -25,7 +25,9 @@ namespace ListaLigadaSimple
                 Console.WriteLine("7.- Numero de Elementos");
                 Console.WriteLine("8.- Ordenar (Burbuja)");
                 Console.WriteLine("9.- Invertir");
-                Console.WriteLine("10.- Salir de la aplicación \n\n");
+                Console.WriteLine("10.- Insertar por indice");
+                Console.WriteLine("11.- Borrar por indice");
+                Console.WriteLine("12.- Salir de la aplicación \n\n");
                 Console.Write("\nSu selección: ");
                 resp = int.Parse(Console.ReadLine());
                 Console.WriteLine();
@@ -82,6 +84,11 @@ namespace ListaLigadaSimple
                         Console.ReadKey();
                         break;
                     case 10:
+                    
+                        System.Console.WriteLine("Ingrese el indice donde se intentará insertar");
+                        lista.InsertarEnIndice(0,0);
+                        break;
+                    case 12:
                         break;
                     default:
                         Console.WriteLine("Opción no válida...");
