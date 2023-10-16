@@ -1,0 +1,17 @@
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\bin\Release\net7.0-windows\Actividad5.exe
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\bin\Release\net7.0-windows\Actividad5.deps.json
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\bin\Release\net7.0-windows\Actividad5.runtimeconfig.json
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\bin\Release\net7.0-windows\Actividad5.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\bin\Release\net7.0-windows\Actividad5.pdb
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad5.csproj.AssemblyReference.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad_5.Form1.resources
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad5.csproj.GenerateResource.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad5.AssemblyInfoInputs.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad5.AssemblyInfo.cs
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad5.csproj.CoreCompileInputs.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad5.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\refint\Actividad5.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad5.pdb
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\Actividad5.genruntimeconfig.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad 5\obj\Release\net7.0-windows\ref\Actividad5.dll

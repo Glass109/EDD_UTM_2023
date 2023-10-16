@@ -1,0 +1,17 @@
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\bin\Debug\net7.0-windows\Actividad2.exe
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\bin\Debug\net7.0-windows\Actividad2.deps.json
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\bin\Debug\net7.0-windows\Actividad2.runtimeconfig.json
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\bin\Debug\net7.0-windows\Actividad2.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\bin\Debug\net7.0-windows\Actividad2.pdb
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.csproj.AssemblyReference.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.Form1.resources
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.csproj.GenerateResource.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.AssemblyInfoInputs.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.AssemblyInfo.cs
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.csproj.CoreCompileInputs.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\refint\Actividad2.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.pdb
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.genruntimeconfig.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\ref\Actividad2.dll

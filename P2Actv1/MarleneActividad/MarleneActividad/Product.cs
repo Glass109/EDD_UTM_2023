@@ -1,6 +1,4 @@
-﻿using System;
-
-public class Product
+﻿public class Product
 {
     string[] productNames = {
             "Smartphone",
@@ -39,8 +37,8 @@ public class Product
 
     public Product()
     {
-        Price = Double.Round(new Random().NextDouble() * 100,2);
-        Name = productNames[new Random().Next(0,productNames.Length)];
+        Price = Double.Round(new Random().NextDouble() * 100, 2);
+        Name = productNames[new Random().Next(0, productNames.Length)];
         Qty = new Random().Next(100);
     }
     public Product(string name)
@@ -50,6 +48,6 @@ public class Product
         Price = Double.Round(new Random().NextDouble() * 100, 2);
     }
 
-    
+
 
 }

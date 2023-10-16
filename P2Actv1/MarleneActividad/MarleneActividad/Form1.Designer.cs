@@ -112,7 +112,7 @@
             disponiblesListView.Size = new Size(148, 213);
             disponiblesListView.TabIndex = 1;
             disponiblesListView.UseCompatibleStateImageBehavior = false;
-            disponiblesListView.SelectedIndexChanged += listView1_SelectedIndexChanged;
+            disponiblesListView.MouseDoubleClick += disponiblesListView_MouseDoubleClick;
             // 
             // detailDataGridView
             // 

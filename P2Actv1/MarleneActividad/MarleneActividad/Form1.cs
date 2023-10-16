@@ -1,5 +1,3 @@
-using System.Runtime.InteropServices.Marshalling;
-
 namespace MarleneActividad
 {
     public partial class Form1 : Form
@@ -17,12 +15,6 @@ namespace MarleneActividad
 
         }
 
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            if (disponiblesListView.SelectedItems.Count > 0)
-                detallarProducto();
-            revisarEstadoBotones();
-        }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -112,10 +104,21 @@ namespace MarleneActividad
             detailDataGridView.Rows.Add(fila1);
         }
 
-        
+        private void disponiblesListView_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            if (disponiblesListView.SelectedItems.Count > 0)
+                detallarProducto();
+            revisarEstadoBotones();
+        }
+
+        private void disponiblesListView_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (disponiblesListView.SelectedItems.Count > 0)
+                detallarProducto();
+            revisarEstadoBotones();
+        }
     }
 
 
 }
 
-    
