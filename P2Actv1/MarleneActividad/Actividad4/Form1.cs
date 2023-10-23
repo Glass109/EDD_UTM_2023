@@ -43,7 +43,6 @@ namespace Actividad4
             {
                 dataGridView2.Rows.Add("Total", 0M);
             }
-
             dataGridView2.Rows[0].Cells[1].Value = total;
         }
 
@@ -102,6 +101,11 @@ namespace Actividad4
                 "Saco de dormir"
             };
             dataGridView1.Rows.Add(nombresProductos[rnd.Next(nombresProductos.Length)], (decimal)(rnd.Next(10000) * .01));
+        }
+
+        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

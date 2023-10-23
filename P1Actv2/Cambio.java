@@ -56,6 +56,7 @@ public class Cambio extends Program {
 	public void CalcularCambio(float cantidad) {
 		cantidad *= 100;
 		CalcularCambio((int) cantidad);
+		
 	}
 
 	public void CalcularCambio(int cantidad) {

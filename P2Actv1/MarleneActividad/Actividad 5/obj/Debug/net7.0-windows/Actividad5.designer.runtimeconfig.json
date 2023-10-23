@@ -14,10 +14,10 @@
     "additionalProbingPaths": [
       "C:\\Users\\glas1\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\glas1\\.nuget\\packages",
-      "C:\\Users\\glas1\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\glas1\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
     ],
     "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }
   }

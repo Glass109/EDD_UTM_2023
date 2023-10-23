@@ -55,7 +55,7 @@
             // 
             // agregarButton
             // 
-            agregarButton.Location = new Point(203, 124);
+            agregarButton.Location = new Point(203, 93);
             agregarButton.Name = "agregarButton";
             agregarButton.Size = new Size(89, 23);
             agregarButton.TabIndex = 3;
@@ -66,7 +66,7 @@
             // eliminarButton
             // 
             eliminarButton.Enabled = false;
-            eliminarButton.Location = new Point(203, 153);
+            eliminarButton.Location = new Point(203, 135);
             eliminarButton.Name = "eliminarButton";
             eliminarButton.Size = new Size(89, 23);
             eliminarButton.TabIndex = 4;
@@ -118,11 +118,11 @@
             // 
             detailDataGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             detailDataGridView.Columns.AddRange(new DataGridViewColumn[] { Column1, Column2, Column3 });
-            detailDataGridView.Location = new Point(35, 285);
+            detailDataGridView.Location = new Point(35, 351);
             detailDataGridView.Name = "detailDataGridView";
             detailDataGridView.ReadOnly = true;
             detailDataGridView.RowHeadersWidth = 40;
-            detailDataGridView.Size = new Size(419, 123);
+            detailDataGridView.Size = new Size(419, 48);
             detailDataGridView.TabIndex = 8;
             detailDataGridView.CellContentClick += dataGridView1_CellContentClick;
             // 

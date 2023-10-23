@@ -35,12 +35,12 @@
             dataGridViewTextBoxColumn1 = new DataGridViewTextBoxColumn();
             dataGridView2 = new DataGridView();
             groupBox1 = new GroupBox();
+            rndProdButton = new Button();
             addButton = new Button();
             precioNumericBox = new NumericUpDown();
             nameTextBox = new TextBox();
             label2 = new Label();
             label1 = new Label();
-            rndProdButton = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView2).BeginInit();
             groupBox1.SuspendLayout();
@@ -97,6 +97,7 @@
             dataGridView2.Size = new Size(240, 99);
             dataGridView2.StandardTab = true;
             dataGridView2.TabIndex = 1;
+            dataGridView2.CellContentClick += dataGridView2_CellContentClick;
             // 
             // groupBox1
             // 
@@ -113,6 +114,16 @@
             groupBox1.TabStop = false;
             groupBox1.Text = "Producto";
             groupBox1.Enter += groupBox1_Enter;
+            // 
+            // rndProdButton
+            // 
+            rndProdButton.Location = new Point(17, 184);
+            rndProdButton.Name = "rndProdButton";
+            rndProdButton.Size = new Size(111, 40);
+            rndProdButton.TabIndex = 4;
+            rndProdButton.Text = "Producto Random";
+            rndProdButton.UseVisualStyleBackColor = true;
+            rndProdButton.Click += rndProdButton_Click;
             // 
             // addButton
             // 
@@ -159,16 +170,6 @@
             label1.Size = new Size(51, 15);
             label1.TabIndex = 0;
             label1.Text = "Nombre";
-            // 
-            // rndProdButton
-            // 
-            rndProdButton.Location = new Point(17, 184);
-            rndProdButton.Name = "rndProdButton";
-            rndProdButton.Size = new Size(111, 40);
-            rndProdButton.TabIndex = 4;
-            rndProdButton.Text = "Producto Random";
-            rndProdButton.UseVisualStyleBackColor = true;
-            rndProdButton.Click += rndProdButton_Click;
             // 
             // Form1
             // 

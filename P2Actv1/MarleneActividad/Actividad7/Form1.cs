@@ -5,7 +5,7 @@ namespace Actividad7
     public partial class Form1 : Form
     {
         public Form1()
-        {
+        { 
             InitializeComponent();
         }
 
@@ -17,14 +17,14 @@ namespace Actividad7
                 return;
             }
 
-            string text = textBox1.Text;
+            string text = textBox1.Text.Trim().ToUpper();
             if (text == InvertirPalabra(text))
             {
                 textBox1.BackColor = Color.SpringGreen;
             } else {
                 textBox1 .BackColor = Color.Red;
             }
-        }
+        }       
         string InvertirPalabra(string palabra)
         {
             StringBuilder stringBuilder = new StringBuilder();

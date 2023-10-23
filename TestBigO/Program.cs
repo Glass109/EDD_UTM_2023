@@ -48,7 +48,7 @@ class SortingComparison
 
     static void BubbleSort(int[] arr)
     {
-        int n = arr.Length;
+        int n = arr.Length
         bool swapped;
         do
         {

@@ -8,4 +8,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\glas1\Desktop\Tareas&amp;Demas\EDD_UTM_2023\P2Actv1\MarleneActividad\MarleneActividad\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\glas1\Desktop\Tareas&amp;Demas\EDD_UTM_2023\P2Actv1\MarleneActividad\MarleneActividad\.editorconfig" />
+  </ItemGroup>
+
 </Project>
