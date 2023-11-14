@@ -1,0 +1,6 @@
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinarioBusqueda\bin\Debug\BinarioBusqueda.exe
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinarioBusqueda\bin\Debug\BinarioBusqueda.pdb
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinarioBusqueda\obj\Debug\BinarioBusqueda.csproj.AssemblyReference.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinarioBusqueda\obj\Debug\BinarioBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinarioBusqueda\obj\Debug\BinarioBusqueda.exe
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinarioBusqueda\obj\Debug\BinarioBusqueda.pdb
