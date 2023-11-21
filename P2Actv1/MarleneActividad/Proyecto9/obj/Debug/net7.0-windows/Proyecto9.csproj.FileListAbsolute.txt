@@ -1,0 +1,17 @@
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\bin\Debug\net7.0-windows\Proyecto9.exe
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\bin\Debug\net7.0-windows\Proyecto9.deps.json
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\bin\Debug\net7.0-windows\Proyecto9.runtimeconfig.json
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\bin\Debug\net7.0-windows\Proyecto9.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\bin\Debug\net7.0-windows\Proyecto9.pdb
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.Form1.resources
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.csproj.GenerateResource.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.AssemblyInfoInputs.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.AssemblyInfo.cs
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.csproj.CoreCompileInputs.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.sourcelink.json
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\refint\Proyecto9.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.pdb
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\Proyecto9.genruntimeconfig.cache
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Proyecto9\obj\Debug\net7.0-windows\ref\Proyecto9.dll

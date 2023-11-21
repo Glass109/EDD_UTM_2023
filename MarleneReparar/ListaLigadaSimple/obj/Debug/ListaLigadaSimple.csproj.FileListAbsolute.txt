@@ -1,0 +1,23 @@
+D:\CursosUTM\SEPTIEMBRE-DICIEMBRE-032017\ED\Parcial2\AplicacionListas\ListaLigadaSimple\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.exe.config
+D:\CursosUTM\SEPTIEMBRE-DICIEMBRE-032017\ED\Parcial2\AplicacionListas\ListaLigadaSimple\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.csprojResolveAssemblyReference.cache
+C:\UTM 2019\SEPTIEMBRE-DICIEMBRE-032019\DSM-EDA\Parcial 2\AplicacionListas\ListaLigadaSimple\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.csprojResolveAssemblyReference.cache
+C:\UTM 2019\SEPTIEMBRE-DICIEMBRE-032019\DSM-EDA\Parcial 2\AplicacionListas\ListaLigadaSimple\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.exe.config
+C:\UTM 2019\SEPTIEMBRE-DICIEMBRE-032019\DSM-EDA\Parcial 2\AplicacionListas\ListaLigadaSimple\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.exe
+C:\UTM 2019\SEPTIEMBRE-DICIEMBRE-032019\DSM-EDA\Parcial 2\AplicacionListas\ListaLigadaSimple\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.pdb
+C:\UTM 2019\SEPTIEMBRE-DICIEMBRE-032019\DSM-EDA\Parcial 2\AplicacionListas\ListaLigadaSimple\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.exe
+C:\UTM 2019\SEPTIEMBRE-DICIEMBRE-032019\DSM-EDA\Parcial 2\AplicacionListas\ListaLigadaSimple\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.pdb
+C:\Users\Lap\OneDrive\Escritorio\ListaLigadaSimple\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.exe.config
+C:\Users\Lap\OneDrive\Escritorio\ListaLigadaSimple\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.exe
+C:\Users\Lap\OneDrive\Escritorio\ListaLigadaSimple\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.pdb
+C:\Users\Lap\OneDrive\Escritorio\ListaLigadaSimple\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.csproj.AssemblyReference.cache
+C:\Users\Lap\OneDrive\Escritorio\ListaLigadaSimple\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lap\OneDrive\Escritorio\ListaLigadaSimple\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.csproj.CoreCompileInputs.cache
+C:\Users\Lap\OneDrive\Escritorio\ListaLigadaSimple\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.exe
+C:\Users\Lap\OneDrive\Escritorio\ListaLigadaSimple\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.pdb
+C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\MarleneReparar\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.exe.config
+C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\MarleneReparar\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.exe
+C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\MarleneReparar\ListaLigadaSimple\bin\Debug\ListaLigadaSimple.pdb
+C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\MarleneReparar\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.csproj.AssemblyReference.cache
+C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\MarleneReparar\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.csproj.CoreCompileInputs.cache
+C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\MarleneReparar\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.exe
+C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\MarleneReparar\ListaLigadaSimple\obj\Debug\ListaLigadaSimple.pdb

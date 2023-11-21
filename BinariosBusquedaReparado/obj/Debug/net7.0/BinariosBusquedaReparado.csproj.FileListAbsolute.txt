@@ -1,0 +1,17 @@
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\bin\Debug\net7.0\BinariosBusquedaReparado.exe
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\bin\Debug\net7.0\BinariosBusquedaReparado.deps.json
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\bin\Debug\net7.0\BinariosBusquedaReparado.runtimeconfig.json
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\bin\Debug\net7.0\BinariosBusquedaReparado.dll
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\bin\Debug\net7.0\BinariosBusquedaReparado.pdb
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.AssemblyInfoInputs.cache
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.AssemblyInfo.cs
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.csproj.CoreCompileInputs.cache
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.dll
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\refint\BinariosBusquedaReparado.dll
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.pdb
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.genruntimeconfig.cache
+C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\ref\BinariosBusquedaReparado.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinariosBusquedaReparado\obj\Debug\net7.0\refint\BinariosBusquedaReparado.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.pdb

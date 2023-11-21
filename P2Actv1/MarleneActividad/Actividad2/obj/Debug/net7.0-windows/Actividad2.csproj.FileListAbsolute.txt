@@ -3,7 +3,6 @@ C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\bi
 C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\bin\Debug\net7.0-windows\Actividad2.runtimeconfig.json
 C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\bin\Debug\net7.0-windows\Actividad2.dll
 C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\bin\Debug\net7.0-windows\Actividad2.pdb
-C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.csproj.AssemblyReference.cache
 C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.Form1.resources
 C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.csproj.GenerateResource.cache
 C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.GeneratedMSBuildEditorConfig.editorconfig
@@ -32,3 +31,4 @@ C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\P2Actv1\MarleneActividad\Activi
 C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.pdb
 C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.genruntimeconfig.cache
 C:\Users\glas1\Desktop\Tareas&Demas\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\ref\Actividad2.dll
+C:\Users\glas1\Desktop\Works\EDD_UTM_2023\P2Actv1\MarleneActividad\Actividad2\obj\Debug\net7.0-windows\Actividad2.sourcelink.json

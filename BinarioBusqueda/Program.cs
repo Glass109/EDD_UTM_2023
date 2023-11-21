@@ -28,7 +28,7 @@ internal static class Program
                     tree.Insert(int.Parse(Console.ReadLine() ?? string.Empty));
                     break;
                 case '2':
-                    tree.PrintNode(tree.Root);
+                    BinaryTree.PrintNode(tree.Root);
                     Console.WriteLine("Presiona un botón para continuar...");
                     Console.ReadLine();
                     break;

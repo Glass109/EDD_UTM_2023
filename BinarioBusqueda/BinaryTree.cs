@@ -14,7 +14,7 @@ internal class BinaryTree
             Insert(Root, obj);
     }
 
-    private void Insert(TreeNode actual, object obj)
+    private static void Insert(TreeNode actual, object obj)
     {
         if ((int)actual.Data >= (int)obj)
             if (actual.Left != null)
@@ -27,7 +27,7 @@ internal class BinaryTree
             actual.Right = new TreeNode(obj);
     }
 
-    public void PrintNode(TreeNode node = null, int level = 0)
+    public static void PrintNode(TreeNode node = null, int level = 0)
     {
         if (node == null) return; //Si el nucleo del arbol no existe, termina la función
         if (node.Right != null)

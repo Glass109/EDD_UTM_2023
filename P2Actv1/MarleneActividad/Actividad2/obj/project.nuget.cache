@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IFmWFPyOE6OERbUGswrfOW9S9tz8tFejNmdye2b1DN4vLLuOk2Gi7ReMZWk1NO5NrA6swW2nQcoOIq1gNei8QA==",
+  "dgSpecHash": "qBtJ2aaQt9YkZ+QHyJV5i1cbpY9dH7GCejx3kCXv+KrmJG125sqxsX3DzDS0hmlJVdtq68lAFI9f2r0Yy9cLuA==",
   "success": true,
   "projectFilePath": "C:\\Users\\glas1\\Desktop\\Works\\EDD_UTM_2023\\P2Actv1\\MarleneActividad\\Actividad2\\Actividad2.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\glas1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
     "C:\\Users\\glas1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\glas1\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
     "C:\\Users\\glas1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
     "C:\\Users\\glas1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.12\\microsoft.netcore.app.host.win-x64.7.0.12.nupkg.sha512"
   ],

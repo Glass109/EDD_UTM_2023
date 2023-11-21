@@ -1,5 +1,7 @@
 package p2actv2;
 
+import java.time.Duration;
+import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.LinkedList;
 import java.util.Queue;
@@ -119,6 +121,11 @@ public class Tarea10 extends javax.swing.JFrame {
         getContentPane().add(jScrollPane4, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 260, 148, -1));
 
         disposeButton.setText("Salida del sistema");
+        disposeButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                disposeButtonActionPerformed(evt);
+            }
+        });
         getContentPane().add(disposeButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 180, 160, 70));
 
         addClientButton.setText("Agregar a la cola");
@@ -130,6 +137,11 @@ public class Tarea10 extends javax.swing.JFrame {
         getContentPane().add(addClientButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 40, 160, 60));
 
         attendButton.setText("Atender en ventanilla");
+        attendButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                attendButtonActionPerformed(evt);
+            }
+        });
         getContentPane().add(attendButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(450, 110, 160, 60));
 
         clientesTabla.setModel(new javax.swing.table.DefaultTableModel(
@@ -155,11 +167,6 @@ public class Tarea10 extends javax.swing.JFrame {
         agregarARegistro();
         actualizarTablas();
         
-        
-        
-        
-        
-        
     }//GEN-LAST:event_addClientButtonActionPerformed
     
             
@@ -177,7 +184,7 @@ public class Tarea10 extends javax.swing.JFrame {
         
         
         clientesTabla.setModel(dModel);
-        JOptionPane.showMessageDialog(null, "SASASA");
+        
         
     }
     
@@ -186,14 +193,34 @@ public class Tarea10 extends javax.swing.JFrame {
         String currentName = nameField.getText();
         Object[] fila = new Object[]{currentID, currentName, jComboBox1.getSelectedItem(), LocalDateTime.now()};
         ColaFilas.add(fila);
+        JOptionPane.showMessageDialog(null, "AGREGADO");
         idFIeld.setText(contadorClientes.toString());
         contadorClientes++;
+    }
+    private void removerDeRegistro(){
+        
+        Object[] a = ColaFilas.poll();
+        var HoraActual = LocalDateTime.now();
+        Duration duracion = Duration.between((LocalDateTime)a[3],HoraActual);
+        JOptionPane.showMessageDialog(null, "NOMBRE:" + a[1] + "\n RETIRADO, SEGUNDOS: " + duracion.getSeconds());
+        
     }
     
     
     private void formWindowActivated(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowActivated
         
     }//GEN-LAST:event_formWindowActivated
+
+    private void disposeButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_disposeButtonActionPerformed
+        // TODO add your handling code here:
+        this.dispose();
+    }//GEN-LAST:event_disposeButtonActionPerformed
+
+    private void attendButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_attendButtonActionPerformed
+        // TODO add your handling code here:
+        removerDeRegistro();
+        actualizarTablas();
+    }//GEN-LAST:event_attendButtonActionPerformed
 
     /**
      * @param args the command line arguments
