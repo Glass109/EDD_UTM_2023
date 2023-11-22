@@ -112,6 +112,8 @@ partial class Form1
         SelectButtonColumn.AutoSizeMode = DataGridViewAutoSizeColumnMode.ColumnHeader;
         SelectButtonColumn.HeaderText = "SELECCIONAR";
         SelectButtonColumn.Name = "SelectButtonColumn";
+        SelectButtonColumn.Text = "SELECT";
+        SelectButtonColumn.UseColumnTextForButtonValue = true;
         SelectButtonColumn.Width = 89;
         // 
         // nameTextBox
@@ -206,7 +208,7 @@ partial class Form1
     private TextBox weightTextBox;
     private TextBox plateTextBox;
     private TextBox brandTextBox;
-    private DataGridViewButtonColumn SelectButtonColumn;
     private Button button2;
     private Button button3;
+    private DataGridViewButtonColumn SelectButtonColumn;
 }
