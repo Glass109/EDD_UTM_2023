@@ -12,6 +12,3 @@ C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj
 C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.pdb
 C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.genruntimeconfig.cache
 C:\codigos Sistemas operativos\TAREAS EDA\Parcial 3\BinariosBusquedaReparado\obj\Debug\net7.0\ref\BinariosBusquedaReparado.dll
-C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.dll
-C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinariosBusquedaReparado\obj\Debug\net7.0\refint\BinariosBusquedaReparado.dll
-C:\Users\glas1\Desktop\Works\EDD_UTM_2023\BinariosBusquedaReparado\obj\Debug\net7.0\BinariosBusquedaReparado.pdb

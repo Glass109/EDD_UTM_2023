@@ -8,26 +8,19 @@
         public ArbolBinario()
         {
             root = null;
-            root=new NodoArbol(8);
-            root.Left=new NodoArbol(3);
-            root.Right=new NodoArbol(10);
+            root = new NodoArbol(8);
+            root.Left = new NodoArbol(3);
+            root.Right = new NodoArbol(10);
         }
         public bool Vacio()
         {
-            if (root == null)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return root == null;
         }
-        public void Inserta(Object el)
+        public void Insertar(Object el)
         {
-            this.Inserta(root, el);
+            this.Insertar(root, el);
         }
-        private void Inserta(NodoArbol actual, Object el)
+        private void Insertar(NodoArbol actual, Object el)
         {
             if (root == null)
                 root = new NodoArbol(el);
@@ -35,12 +28,12 @@
             {
                 if ((int)actual.info >= (int)el)
                     if (actual.Left != null)
-                        Inserta(actual.Left, el);
+                        Insertar(actual.Left, el);
                     else
                         actual.Left = new NodoArbol(el);
                 else
                     if (actual.Right != null)
-                    Inserta(actual.Right, el);
+                    Insertar(actual.Right, el);
                 else
                     actual.Right = new NodoArbol(el);
             }
@@ -136,7 +129,7 @@
         {
             int left = Console.CursorLeft;
             int top = Console.CursorTop;
-            Console.SetCursorPosition(left+70,top);
+            Console.SetCursorPosition(left + 70, top);
             Console.Write(root.info);
             this.PreOrden(root);
         }
@@ -145,7 +138,7 @@
             misNodos.Add(root);
             if (root.Left != null)
             {
-                
+
                 PreOrden(root.Left);//aca mi brazo der
             }
             if (root.Right != null)

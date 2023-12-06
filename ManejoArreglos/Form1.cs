@@ -35,7 +35,7 @@ public partial class Form1 : Form
             items.Add(cell.Value.ToString());
         }
 
-        MessageBox.Show(string.Join('\n', items))
+        MessageBox.Show(string.Join('\n', items));
     }
 
     private void button1_Click(object sender, EventArgs e)

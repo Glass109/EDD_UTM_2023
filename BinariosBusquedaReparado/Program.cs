@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-using System.Text;
-
-namespace BinarioBusqueda
+﻿namespace BinarioBusqueda
 {
     class Program
     {
@@ -16,7 +11,7 @@ namespace BinarioBusqueda
                 //Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("");
-                Console.WriteLine("ARBOLES BINARIOS DE PreOrden");
+                Console.WriteLine("ARBOLES BINARIOS DE Pre-Orden");
                 Console.WriteLine("1.- Insertar");
                 Console.WriteLine("2.- Buscar");
                 Console.WriteLine("3.- Eliminar");
@@ -29,7 +24,7 @@ namespace BinarioBusqueda
                 {
                     case 1:
                         Console.WriteLine("Escribe un valor entero");
-                        arbol.Inserta(int.Parse(Console.ReadLine()));
+                        arbol.Insertar(int.Parse(Console.ReadLine()));
                         Console.WriteLine("Elementos en el arbol (PreOrden): ");
                         arbol.MostrarPre();
 
@@ -83,7 +78,7 @@ namespace BinarioBusqueda
                         break;
                     case 5:
                         arbol.Graficar();
-                    break;
+                        break;
                     default: break;
                 }
             } while (resp != 6);
